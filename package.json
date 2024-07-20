@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-      "dev": "nodemon src/app.js"
+    "dev": "nodemon src/app.js"
   },
   "keywords": [],
   "author": "VIRGINIA NARDI",
@@ -30,6 +30,7 @@
     "supertest": "^6.3.3",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0",
+    "vercel": "^35.1.0",
     "winston": "^3.10.0"
   },
   "devDependencies": {
